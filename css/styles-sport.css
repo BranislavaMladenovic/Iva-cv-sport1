@@ -579,7 +579,7 @@ a {
   font-family: 'Montserrat', sans-serif;
   margin: 10px 20px;
   font-weight: bold;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 a:hover {
@@ -589,6 +589,7 @@ a:hover {
  /* color: #11999E;*/
  /* color:#002974;*/
 /* border: 4px solid orange;*/
+text-decoration: none;
 }
 
 .reference {
@@ -641,8 +642,6 @@ a:hover {
   border-radius: 10px;
   font-family: 'Montserrat', sans-serif;
   color:#1D5D71;
-
-
   font-size: 20px;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
@@ -667,11 +666,9 @@ a:hover {
   background-image: -ms-linear-gradient(top, #dca880,grey );
   background-image: -o-linear-gradient(top, #dca880, grey);
   background-image: linear-gradient(to bottom, #dca880, grey);
-
   text-decoration: none;
   border: 2px solid orange;
-
-   color: white;
+  color: #262422;
 }
 
 .copyright {
